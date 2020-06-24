@@ -1,0 +1,24 @@
+{
+    "id": "99F6A4E9",
+    "path": "~/Dropbox/HydroTech/Project_01/Reference_Evapotranspiration/Code/_04_TerraClimate_Extract_Variables_from_Shapefile.R",
+    "project_path": "Code/_04_TerraClimate_Extract_Variables_from_Shapefile.R",
+    "type": "r_source",
+    "hash": "1746829164",
+    "contents": "",
+    "dirty": false,
+    "created": 1590429268118.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "7,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1583699554,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1583699554,
+    "read_only": false,
+    "read_only_alternatives": []
+}
